@@ -23,11 +23,9 @@ public class MainActivity extends AppCompatActivity {
                 // flagがtrueの時
                 if (flag) {
 
-                    flag = false;
 
                 } else {
 
-                    flag = true;
 
                 }
             }
